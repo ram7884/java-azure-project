@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: spring-boot-k8s
-          image: learndevops16/javasantaapp:latest
+          image: saidevops16/webappdemob49:latest
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
