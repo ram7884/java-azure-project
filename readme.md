@@ -1,2 +1,1 @@
-test
-test1
+ docker build -t app:v1 .
