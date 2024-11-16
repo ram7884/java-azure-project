@@ -6,7 +6,7 @@ spec:
   selector:
     matchLabels:
       app: spring-boot-k8s
-  replicas: 1
+  replicas: 2
   template:
     metadata:
       labels:
